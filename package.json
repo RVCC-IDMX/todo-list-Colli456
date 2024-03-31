@@ -1,0 +1,12 @@
+{
+  "name": "todo-list-colli456",
+  "version": "1.0.0",
+  "description": "Files for the YouTube collab between Kevin and Kyle of Web Dev Simplified.\r Kevin built out the HTML and styled it up, and then Kyle added the functionality with JS.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Collie Clarke <ccla2583@stu.raritanval.edu> (https://github.com/Colli456)",
+  "license": "MIT"
+}
